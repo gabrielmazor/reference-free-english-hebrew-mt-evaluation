@@ -1,0 +1,14 @@
+torch
+transformers
+sentencepiece
+evaluate
+sacrebleu
+deep-translator
+sentence-transformers
+scikit-learn
+scipy
+numpy
+pandas
+matplotlib
+tqdm
+joblib
